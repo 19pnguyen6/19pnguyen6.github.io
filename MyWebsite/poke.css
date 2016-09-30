@@ -1,40 +1,82 @@
-a:link {
-    text-decoration: none;
+.pop {
+    background-color: black;
+    margin-left: -8px;
+    margin-top: -11px;
+    margin-right: -8px;
+    font-family: 'Shrikhand', cursive;
+    font-size: 100px;
 }
 
-a:visited {
+a:link {
+    color: white;
+    font-size: 25px;
+    margin-right: 20px;
+    margin-left: 20px;
     text-decoration: none;
+     font-family: 'Shrikhand', cursive;
+    
+}
+
+a:visit {
+    color: white;
 }
 
 a:hover {
     text-decoration: none;
+    color: white;
+
 }
 
 a:active {
     text-decoration: none;
+    color: white;
 }
-a {
+.ww {
+    background-color: black;
+    color: black;
+    margin-top: 10px;
     text-align: center;
+    padding-top: 20px;
+    padding-left: 190px;
+    font-size: 165px;
+    font-family: 'Open Sans', sans-serif;
+    text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15);
+            
 }
+.w {
+    color: white;
+   
 
-body {
+    
+}
+h1, h2 {
+    background-color: black;
+    color: white;
+    margin-left: -10px;
+    margin-right: 1000px;
+    padding-left: 50px;
+    font-family: 'Josefin Slab', serif;
+}
+table {
+    text-align: center;
     font-family: 'Roboto', sans-serif;
-    border: 10px;
     background-color: white;
-    font-size: 10px;
+    font-size: 30px;
     border-style: outset;
     border-color: #C9C9C9;
-    margin-left: 20px;
 }
-
-.pop {
-    margin: auto;
-    text-align: center;
-    font-size: 30px;
+p {
+    font-family: 'Josefin Slab', serif;
+    font-size: 20px;
 }
-
-.git {
-    width: 100px;
+.black {
+    background-color: black;
+    color: white;
 }
-
-
+th {
+    border: 1px;
+    border-style: solid;
+}
+.prime1 {
+    display: inline;
+}
