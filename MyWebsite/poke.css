@@ -1,10 +1,11 @@
 .pop {
     background-color: black;
     margin-left: -8px;
-    margin-top: -11px;
     margin-right: -8px;
     font-family: 'Shrikhand', cursive;
     font-size: 100px;
+    padding-top: 120px;
+    margin-top: -10px;
 }
 
 a:link {
@@ -13,7 +14,7 @@ a:link {
     margin-right: 20px;
     margin-left: 20px;
     text-decoration: none;
-     font-family: 'Shrikhand', cursive;
+    font-family: 'Shrikhand', cursive;
     
 }
 
@@ -23,7 +24,12 @@ a:visit {
 
 a:hover {
     text-decoration: none;
-    color: white;
+    color: black;
+    background-color: white;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    
 
 }
 
@@ -34,18 +40,19 @@ a:active {
 .ww {
     background-color: black;
     color: black;
-    margin-top: 10px;
+    margin-top: -150px;
     text-align: center;
-    padding-top: 20px;
     padding-left: 190px;
     font-size: 165px;
     font-family: 'Open Sans', sans-serif;
     text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15);
+    border-radius: 200%;
+    border-color: white;
+    border-style: solid;
             
 }
 .w {
     color: white;
-   
 
     
 }
@@ -76,7 +83,4 @@ p {
 th {
     border: 1px;
     border-style: solid;
-}
-.prime1 {
-    display: inline;
 }
