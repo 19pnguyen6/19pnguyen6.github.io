@@ -4,8 +4,9 @@
     margin-right: -8px;
     font-family: 'Shrikhand', cursive;
     font-size: 100px;
-    padding-top: 120px;
+    padding-top: -200px;
     margin-top: -10px;
+    text-align: justify;
 }
 
 a:link {
@@ -15,6 +16,7 @@ a:link {
     margin-left: 20px;
     text-decoration: none;
     font-family: 'Shrikhand', cursive;
+    padding-top: -20px;
     
 }
 
@@ -40,21 +42,16 @@ a:active {
 .ww {
     background-color: black;
     color: black;
-    margin-top: -150px;
-    text-align: center;
-    padding-left: 190px;
-    font-size: 165px;
+    margin-top: 10px;
+    padding-left: 580px;
+    font-size: 50px;
     font-family: 'Open Sans', sans-serif;
     text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15);
-    border-radius: 200%;
-    border-color: white;
-    border-style: solid;
-            
+    margin-bottom: -30px;
 }
 .w {
     color: white;
-
-    
+    padding-top: -100px;
 }
 h1, h2 {
     background-color: black;
