@@ -1,0 +1,30 @@
+h1 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: pink;
+    text-shadow: 2px 2px 8px #FF0000;
+    margin: auto;
+}
+table {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    background-color: white;
+    font-size: 30px;
+    border-style: outset;
+    border-color: #C9C9C9;
+
+}
+tr {
+    
+    background-color: #FF69B4;
+}
+th {
+ 
+    text-align: center;
+    color: #ffffff;
+    background-color: #EE82EE;
+}
+
